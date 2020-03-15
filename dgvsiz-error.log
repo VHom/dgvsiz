@@ -1,0 +1,12 @@
+[Sun Sep 22 22:23:36.101134 2019] [core:alert] [pid 90460] [client ::1:55073] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:23:46.503205 2019] [core:alert] [pid 92780] [client ::1:55075] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:23:47.554946 2019] [core:alert] [pid 91629] [client ::1:55076] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:23:51.767103 2019] [core:alert] [pid 90459] [client ::1:55077] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:23:52.243802 2019] [core:alert] [pid 91631] [client ::1:55078] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:23:54.352895 2019] [core:alert] [pid 91628] [client ::1:55079] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:00.092080 2019] [core:alert] [pid 36429] [client ::1:55080] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:01.146173 2019] [core:alert] [pid 90457] [client ::1:55081] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:02.534800 2019] [core:alert] [pid 90460] [client ::1:55082] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:44.173913 2019] [core:alert] [pid 91630] [client ::1:55086] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:45.415569 2019] [core:alert] [pid 90458] [client ::1:55087] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
+[Sun Sep 22 22:24:47.285719 2019] [core:alert] [pid 92780] [client ::1:55088] /Users/mac/documents/www/dgvsiz/.htaccess: /Users/mac/documents/www/dgvsiz/.htaccess:1: <Options> was not closed.
